@@ -1,0 +1,25 @@
+{
+    "name": "nargesahangar/myprj",
+    "description": "my new composer project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nargesahangar\\Myprj\\": "src/",
+            "App\\":"app/"
+        },
+        "files": [
+            "App/a/function.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "narges ahangar"
+        }
+    ],
+
+    
+
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
