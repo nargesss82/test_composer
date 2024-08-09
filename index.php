@@ -16,4 +16,7 @@ function f1()
 function FunctionName()  {
     echo "text";
 }
+function ff()  {
+    
+}
 ?>
