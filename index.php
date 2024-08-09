@@ -13,5 +13,7 @@ function f1()
    echo "text";
 }
 
-
+function FunctionName()  {
+    echo "text";
+}
 ?>
