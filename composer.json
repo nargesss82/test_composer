@@ -1,5 +1,5 @@
 {
-    "name": "nargesahangar/myprj",
+    "name": "nargesahangar/myprj_testcomposer",
     "description": "my new composer project",
     "type": "project",
     "autoload": {
